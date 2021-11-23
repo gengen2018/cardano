@@ -1,0 +1,8 @@
+{
+"name":"Gengen#9561",
+"ticker":"DAI",
+"discordId":"/911475099285221427",
+"pool-list":"false",
+"poolMetaData":"https://raw.githubusercontent.com/gengen2018/cardano/main/poolMetaData.json",
+"validation":"https://raw.githubusercontent.com/gengen2018/cardano/main/sjg-validation.json"
+}
